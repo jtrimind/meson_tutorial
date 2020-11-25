@@ -1,10 +1,13 @@
-# Meson Tutorial
-This code is taken from [Meson Tutorial](https://mesonbuild.com/Tutorial.html)
-
-# How to build
+# How to Use
 ```bash
+$ cd $(tutorial directory)
 $ meson build
 $ cd build
 $ ninja
 $ ./demo
 ```
+
+# Tutorial list
+- minimum
+- dependency
+- subproject
